@@ -88,5 +88,5 @@ This project is released under the MIT License.
 
 ## 8. Author
 
-Vo Hoang Nguyen
+Vo Hoang Nguyen -
 GitHub: https://github.com/vohoangnguyennnnn
