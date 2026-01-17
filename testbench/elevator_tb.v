@@ -118,10 +118,9 @@ module elevator_tb;
     floor_req = {FLOORS{1'b0}};
     reset     = 1'b1;
 
-    // hold reset for a bit
     wait_cycles(3);
     reset = 1'b0;
-    $display("=== Release reset ===");
+    $display(" Release reset ");
 
     // ------------------------------------------------------------
     // CASE 1: press a single floor (go up from 0 to 3)
