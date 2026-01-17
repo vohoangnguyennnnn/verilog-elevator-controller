@@ -22,10 +22,10 @@
 - Result: Door does not open
 
 ## Schematics
-![Elevator RTL Schematic](docs/images/elevator_schemetic.png)
+![Elevator RTL Schematic](images/elevator_schematic.png)
 
-## 3. Waveform Analysis
-![Elevator Simulation Waveform](docs/images/elevator-tb.png)
+## Waveform Analysis
+![Elevator Simulation Waveform](images/elevator_tb.png)
 
 ## 4. Conclusion
 The RTL design behaves correctly under all tested scenarios.
