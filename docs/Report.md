@@ -21,8 +21,11 @@
 - Request removed before arrival
 - Result: Door does not open
 
+## Schematics
+![Elevator RTL Schematic](docs/images/elevator_schemetic.png)
+
 ## 3. Waveform Analysis
-(Insert waveform images here)
+![Elevator Simulation Waveform](docs/images/elevator-tb.png)
 
 ## 4. Conclusion
 The RTL design behaves correctly under all tested scenarios.
